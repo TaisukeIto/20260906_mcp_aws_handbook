@@ -78,3 +78,4 @@
 ## 書籍刊行後の変更点
 - オープンソースプロジェクトの「AWS MCP Servers」は、2026年2月上旬に「Open source MCP servers for AWS」に名称が変更されました。（[詳細はこちら](https://github.com/awslabs/mcp)）
 - 書籍で紹介しているAWS Diagram MCP Serverは、2026年3月上旬に非推奨（deprecated）となりました。ただし、書籍掲載の手順や内容が直ちに利用できなくなるものではなく、引き続き試すことができます。移行ガイドなどはREADMEを参照ください。（[詳細はこちら](https://github.com/awslabs/mcp/tree/main/src/aws-diagram-mcp-server)）
+- 書籍で紹介しているAWS Cloud Control API MCP Serverは、2026年3月中旬に非推奨（deprecated）となり、AWS IAC MCP Serverへの移行手順が公開されました。（[詳細はこちら](https://github.com/awslabs/mcp/tree/main/src/ccapi-mcp-server)）
